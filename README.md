@@ -39,7 +39,6 @@ You can download the application from two places:
     *   **https://www.buraks.com/as3sorcerer/**
 
 *   **This Repository:** For convenience, a copy of the setup file is available on the [**Releases** page](https://github.com/AmrDevEG/as3sorcerer-decompiler/releases/tag/6.78).
-    *   *Note: Be sure to replace `AmrDevEG/as3sorcerer-decompiler` with your actual GitHub username and repository name in the links above.*
 
 ## Disclaimer
 
