@@ -1,8 +1,10 @@
 # AS3 Sorcerer - SWF to ActionScript 3 Decompiler
 
+<p align="center">
+  <img src="as3sorcerer_icon_64x64.png" alt="AS3 Sorcerer Icon" width="128">
+</p>
+
 A repository providing access to and information about AS3 Sorcerer, a powerful decompiler for Adobe Flash `.swf` files.
-
-
 
 ## About AS3 Sorcerer
 
