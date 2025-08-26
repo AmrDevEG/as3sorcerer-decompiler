@@ -25,7 +25,7 @@ This tool is incredibly useful for:
 
 ## How to Use
 
-1.  **Download:** Get the setup file from the [Releases page](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases) of this repository or from the official website.
+1.  **Download:** Get the setup file from the [Releases page](https://github.com/AmrDevEG/as3sorcerer-decompiler/releases/tag/6.78) of this repository or from the official website.
 2.  **Install:** Run the `as3sorcerer_setup` executable and follow the on-screen installation instructions.
 3.  **Launch:** Open AS3 Sorcerer from your Start Menu or desktop shortcut.
 4.  **Decompile:** Go to `File > Open` and select the `.swf` file you wish to analyze.
@@ -38,8 +38,8 @@ You can download the application from two places:
 *   **Official Website:** You can find the latest version directly from the creator's website:
     *   **https://www.buraks.com/as3sorcerer/**
 
-*   **This Repository:** For convenience, a copy of the setup file is available on the [**Releases** page](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases).
-    *   *Note: Be sure to replace `YOUR_USERNAME/YOUR_REPOSITORY` with your actual GitHub username and repository name in the links above.*
+*   **This Repository:** For convenience, a copy of the setup file is available on the [**Releases** page](https://github.com/AmrDevEG/as3sorcerer-decompiler/releases/tag/6.78).
+    *   *Note: Be sure to replace `AmrDevEG/as3sorcerer-decompiler` with your actual GitHub username and repository name in the links above.*
 
 ## Disclaimer
 
